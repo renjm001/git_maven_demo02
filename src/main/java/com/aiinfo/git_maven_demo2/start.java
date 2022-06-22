@@ -8,5 +8,6 @@ package com.aiinfo.git_maven_demo2;
 public class start {
     public static void main(String[] args) {
         System.out.println("这是测试！！！！");
+        System.out.println("这是demo2项目修改!!!");
     }
 }
